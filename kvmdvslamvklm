@@ -1,0 +1,53 @@
+[33mcommit 1b8e19da1de99f840829c3d36f7a20ff4e25432d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: root <archikendriya0104@gmail.com>
+Date:   Wed Feb 18 23:31:42 2026 +0530
+
+    branching cherrypick
+
+[33mcommit d56acb1b59629bd5f86647b0be74ea3f38fe967b[m[33m ([m[1;31morigin/version2[m[33m, [m[1;32mversion2[m[33m)[m
+Author: root <archikendriya0104@gmail.com>
+Date:   Wed Feb 18 23:29:09 2026 +0530
+
+    version2
+
+[33mcommit ff191a317999827179979c164ece97ed041f03e8[m[33m ([m[1;32mversion1[m[33m)[m
+Author: root <archikendriya0104@gmail.com>
+Date:   Wed Feb 18 23:22:52 2026 +0530
+
+    version 2
+
+[33mcommit 03dcede3a4740280954e4db55d1cd23479bf50ab[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: root <archikendriya0104@gmail.com>
+Date:   Wed Feb 18 06:56:24 2026 +0530
+
+    deleted file
+
+[33mcommit 710ebb3f65887a053ca81cf0c6829a49414259bf[m
+Author: root <archikendriya0104@gmail.com>
+Date:   Wed Feb 18 05:58:41 2026 +0530
+
+    add linux
+
+[33mcommit 5280003692a0d25268a8d5cf0908fded31592e3c[m
+Author: root <archikendriya0104@gmail.com>
+Date:   Sat Feb 14 12:40:21 2026 +0530
+
+    abc.sh
+
+[33mcommit 2c5eabd74aaf9a8b192d90be7ac823d900ad25f0[m
+Author: root <archikendriya0104@gmail.com>
+Date:   Sat Feb 14 12:32:52 2026 +0530
+
+    1st abc
+
+[33mcommit d71c4afa85a598ca61570a89ef535ec2fbcef623[m
+Author: root <archikendriya0104@gmail.com>
+Date:   Sat Feb 14 12:06:03 2026 +0530
+
+    2nd version
+
+[33mcommit 4e577adf8f5648edfc63aa73171c8d5599283770[m
+Author: root <archikendriya0104@gmail.com>
+Date:   Sat Feb 14 12:02:27 2026 +0530
+
+    1st version
